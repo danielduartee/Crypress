@@ -1,0 +1,11 @@
+{
+  "name": "crypress",
+  "version": "1.0.0",
+  "description": "Primeiro projeto Crypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx crypress open"
+  },
+  "author": "Daniel Duarte",
+  "license": "ISC"
+}
